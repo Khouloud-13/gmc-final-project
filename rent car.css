@@ -1,0 +1,40 @@
+ 
+body {background-color: rgb(244, 238, 236);}
+
+
+.description {
+    background-image: url('./R\ \(1\).jpg');
+   
+
+}
+
+h1 {color: rgb(12, 8, 1);
+
+}
+h2 {
+    color: rgb(48, 28, 5);
+    width: 90%;
+    height: 100%;
+}
+
+ul {
+    border: 1px solid #b7ce089f;
+  }
+ul {
+    text-align: center;
+    border-bottom: 1px solid #b7ce089f; 
+    ;
+ }
+
+ a {
+    color: rgb(174, 66, 66);
+ }
+
+ h1 {
+    color: rgb(109, 5, 5);
+ }
+ 
+
+ footer {
+    color: rgb(196, 120, 20);
+ }
